@@ -26,7 +26,7 @@
 
 #### 付费版
 
-请求地址：`http(s)://wxblog.xyz/api/blog/v1/chat/completions`
+请求地址：`https://wxblog.xyz/api/blog/v1/chat/completions`
 
 请求headers: `Authorization: Bearer YOURKEY`
 
@@ -49,7 +49,7 @@
 
 #### 免费版
 
-请求地址：`http(s)://wxblog.xyz/api/blog/free/v1/chat/completions`
+请求地址：`https://wxblog.xyz/api/blog/free/v1/chat/completions`
 
 请求headers: `Authorization: Bearer YOURKEY`
 
