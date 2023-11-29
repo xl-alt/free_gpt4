@@ -2,6 +2,8 @@
 
 ### 简介
 
+> ❗️ 之前域名和服务器过期了，如果仍有需要使用GPT-4或者bing或者claude，mj等等，可以直接联系我，如果您需要api，我也能免费提供，但是禁止大规模使用！！
+
 > ❗️免费API Key仅可用于个人非商业用途，教育，非营利性科研工作中。严禁商用，严禁大规模训练商用模型！
 
 > 该网站和api高度重视隐私，致力于保护其用户的隐私。该项目不会以任何方式收集、记录或存储用户输入的任何文本或由 OpenAI 服务器返回的任何文本。该项目不会向 OpenAI 或任何第三方提供有关 API 调用者的身份的任何信息，所有文本消息 均保存在本地。
@@ -10,7 +12,7 @@
 
 #### 👏广告
 
-[国内镜像网站](https://docs.chatanywhere.com.cn/) 支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [https://wxblog.xyz](https://wxblog.xyz)
+支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [https://wxblog.xyz](https://wxblog.xyz)
 
 #### apikey 获取
 
