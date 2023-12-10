@@ -12,7 +12,7 @@
 
 #### 👏广告
 
-支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [[https://wxblog.xyz](https://ngedlktfticp.cloud.sealos.io/)]([https://wxblog.xyz](https://ngedlktfticp.cloud.sealos.io/))  注册即送 20 $
+支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp.cloud.sealos.io/)  注册即送 20 $
 
 #### apikey 获取
 
