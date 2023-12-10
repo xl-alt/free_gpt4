@@ -2,7 +2,7 @@
 
 ### 简介
 
-> ❗️ 之前域名和服务器过期了，如果仍有需要使用GPT-4或者bing或者claude，mj等等，可以直接联系我，如果您需要api，我也能免费提供，但是禁止大规模使用！！
+> ❗️ 代码更新，最新网站支持GPT-4-1106，GPT-4-0613,GPT-4,GPT-3.5各个模型，cluade-2 以及 az-gpt-4等等。
 
 > ❗️免费API Key仅可用于个人非商业用途，教育，非营利性科研工作中。严禁商用，严禁大规模训练商用模型！
 
@@ -12,46 +12,21 @@
 
 #### 👏广告
 
-支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [https://wxblog.xyz](https://wxblog.xyz)
+支持GPT4.0, DALLE, Claude, Azure Openai, sd等集成部署。详情查看 [[https://wxblog.xyz](https://ngedlktfticp.cloud.sealos.io/)]([https://wxblog.xyz](https://ngedlktfticp.cloud.sealos.io/))  注册即送 20 $
 
 #### apikey 获取
 
-**apikey 获取地址：[https://wxblog.xyz](https://wxblog.xyz)  登陆后前往个人中心查看key，加入QQ群 743876738，接口有问题会及时在群内通知哦！！**
+**apikey 获取地址：[https://ngedlktfticp.cloud.sealos.io/]([https://wxblog.xyz](https://ngedlktfticp.cloud.sealos.io/))  登陆后前往个人中心查看key，加入QQ群 743336487，接口有问题会及时在群内通知哦！！**
 
-**api 分为付费版和免费版,付费版稳定性较好**
+**api 完全免费，支持模型包括以下模型，可以根据自己需求调用**
 
-付费版支持模型包括【"gpt-3.5-turbo-0301","gpt-3.5-turbo","gpt-3.5-turbo-0613","gpt-3.5-turbo-16k","gpt-3.5-turbo-16k-0613","gpt-4","gpt-4-0613","claude-instant-100k","claude-instant"】
-
-免费版支持模型包括【"`gpt-4`","`gpt-4-0613","gpt-3.5"】
+支持模型包括 <div class="semi-card-body"><h6 class="semi-typography semi-typography-primary semi-typography-normal semi-typography-h6">可用模型</h6><div style="margin-top: 10px;"><div class="semi-space semi-space-align-center semi-space-horizontal semi-space-wrap semi-space-tight-horizontal semi-space-tight-vertical" x-semi-prop="children"><div aria-label="Tag: az-gpt-4" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">az-gpt-4</div></div><div aria-label="Tag: claude-2" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">claude-2</div></div><div aria-label="Tag: claude-instant-1" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">claude-instant-1</div></div><div aria-label="Tag: dall-e-3" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">dall-e-3</div></div><div aria-label="Tag: gpt-3.5-turbo" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo</div></div><div aria-label="Tag: gpt-3.5-turbo-0301" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-0301</div></div><div aria-label="Tag: gpt-3.5-turbo-0613" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-0613</div></div><div aria-label="Tag: gpt-3.5-turbo-1106" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-1106</div></div><div aria-label="Tag: gpt-3.5-turbo-16k" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-16k</div></div><div aria-label="Tag: gpt-3.5-turbo-16k-0613" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-16k-0613</div></div><div aria-label="Tag: gpt-3.5-turbo-instruct" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-3.5-turbo-instruct</div></div><div aria-label="Tag: gpt-4" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-4</div></div><div aria-label="Tag: gpt-4-0314" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-4-0314</div></div><div aria-label="Tag: gpt-4-0613" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-4-0613</div></div><div aria-label="Tag: gpt-4-1106-preview" tabindex="0" class="semi-tag semi-tag-default semi-tag-square semi-tag-light semi-tag-cyan-light" role="button"><div class="semi-tag-content semi-tag-content-ellipsis">gpt-4-1106-preview</div></div></div></div></div>
 
 ### api 请求地址及参数
 
 #### 付费版
 
-请求地址：`https://wxblog.xyz/api/blog/v1/chat/completions`
-
-请求headers: `Authorization: Bearer YOURKEY`
-
-参数说明：
-
-```JavaScript
-{
-    "messages": [
-        {
-            "role": "user",
-            "content": "你是谁"
-        }
-    ], // messages 必填
-    "stream": true, //  是否流式输出
-    "model": "gpt-4-0613",  // 选择模型必填
-    "temperature": 0.5, // 设置AI思维扩展度
-    "presence_penalty": 2
-}
-```
-
-#### 免费版
-
-请求地址：`https://wxblog.xyz/api/blog/free/v1/chat/completions`
+请求地址：`https://ngedlktfticp.cloud.sealos.io/v1/chat/completions`
 
 请求headers: `Authorization: Bearer YOURKEY`
 
@@ -74,8 +49,8 @@
 
 #### api优点
 
-1. 付费与免费版均支持 4.0 可供使用
-2. 与官方完全一致的接口标准（免费版仅输出文本，不能设置system），兼容各种软件/插件。
+1. 高速免费使用各个模型
+2. 与官方完全一致的接口标准，兼容各种软件/插件。
 3. 支持流式响应。
 4. 国内线路使用动态加速.
 5. 无需科学上网，国内环境直接可用。
@@ -90,10 +65,6 @@
 在apikey处 填写您的apikey即可使用
 
 
-
-#### 国内镜像网站
-
-[https://wxblog.xyz](https://wxblog.xyz)  此网站可以 直接使用无需翻墙，付费版api使用只需要在此网站升级即可,有问题可以加QQ群留言。我们会随时会接口进行维护，确保接口的稳定性。
 
 
 
